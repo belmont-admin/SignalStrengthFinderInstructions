@@ -1,30 +1,6 @@
-> Open this page at [https://belmont-admin.github.io/signalstrengthfinderinstructions/](https://belmont-admin.github.io/signalstrengthfinderinstructions/)
+# Find the @boardname@ puzzle (using radio signal strength) 
 
-## Use this extension
+For this project you have to use your @boardname@ to find four other @boardnames@ in the top hall. You need to find them in the right order and then press button ``||A||`` to reveal a letter from each @boardname@.
 
-This repository can be added as an **extension** in MakeCode.
+The four letters are the first four letter of a five letter word which you can use to open a padlocked box. If you open the box you will win the house points inside!
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/belmont-admin/signalstrengthfinderinstructions** and import
-
-## Edit this extension ![Build status badge](https://github.com/belmont-admin/signalstrengthfinderinstructions/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/belmont-admin/signalstrengthfinderinstructions** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/belmont-admin/signalstrengthfinderinstructions/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
