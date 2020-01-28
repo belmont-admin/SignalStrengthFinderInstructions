@@ -21,7 +21,7 @@ Here's a number line which shows how the the value of ``||radio:signal strength|
 
 ## Step 1
 
-You will find each @boardname@ by sending it a message which it will then echo back to you. You will send the message **"ping"**. A ping is a sound sent out by a submarine which then echoes back off any nearby object allowing the sonar operator to know how near another vessel is.
+You will find each @boardname@ by sending it a message which it will then echo back to you. You will send the message **"ping"**. The word *ping* comes from the sound sent out by a submarine which then echoes back off any nearby object allowing the sonar operator to know how near another vessel is.
 
 First you need to use the ``||radio:radio set group||`` block to set the radio channel to use for the message. The first @boardname@ you need to find uses channel **1**. Let's store that in a ``||variables:channel||`` variable so it will be easy to change later when you need to.
 
