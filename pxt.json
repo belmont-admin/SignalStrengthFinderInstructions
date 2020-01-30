@@ -1,5 +1,5 @@
 {
-    "name": "signalstrengthfinderinstructions",
+    "name": "pingFinder",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
